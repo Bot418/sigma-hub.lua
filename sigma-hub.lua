@@ -1,5 +1,5 @@
 -- Sigma Hub V3 (Remake)
--- Made by [Nama Kamu]
+-- Made by [By:Bot]
 
 -- Load Infinite Yield
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
